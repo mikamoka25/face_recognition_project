@@ -1,0 +1,7 @@
+database.npy
+dataset/
+celeba_100_identities_3reg_3test/
+*.npy
+*.pt
+__pycache__/
+.DS_Store
